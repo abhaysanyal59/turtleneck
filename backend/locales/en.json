@@ -1,0 +1,6 @@
+{
+  "SUCCESS":"API Success!!",
+  "FAILURE":"API Failure!!",
+  "PAGE_REQUIRED":"Page is Required!!",
+  "LIMIT_REQUIRED":"Limit is Required!!"
+}
