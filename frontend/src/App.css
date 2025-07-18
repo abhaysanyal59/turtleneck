@@ -1,0 +1,92 @@
+body {
+  background-color: rgba(164, 164, 164, 0.263);
+  padding: 10px;
+}
+
+.main-layout {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: 250px 1fr;
+  height: 100vh;
+}
+
+.sidebar {
+  height: 100%;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%; 
+}
+
+.flex-container {
+  display: flex;
+}
+
+.font-white {
+  color: white;
+}
+
+.font-black {
+  color: black;
+}
+
+.flex-justfiy-between {
+  display: flex;
+  justify-content: space-between;
+}
+.flex-end {
+  justify-content: flex-end;
+}
+
+.gap-10 {
+  gap: 10px;
+}
+
+.gap-20 {
+  gap: 20px;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+.width-90 {
+  width: 90%;
+}
+
+.padding-20 {
+  padding: 20px;
+}
+
+.padding-10 {
+  padding: 10px;
+}
+
+.font-20 {
+  font-size: 20px;
+}
+
+.border-10 {
+  border-radius: 10px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.bg-grey {
+  background-color: rgb(42, 42, 42);
+}
+
+.bg-white {
+  background-color: rgb(255, 255, 255);
+}
+
+.align-baseline {
+  align-items: baseline;
+}
+
+.margin-h-10 {
+  margin: 10px 0px;
+}
